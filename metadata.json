@@ -1,0 +1,7 @@
+{
+  "name": "ColorSmart Fashion",
+  "description": "AI-powered fashion accessibility platform empowering colorblind individuals to dress with confidence through smart color detection and outfit matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
